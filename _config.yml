@@ -16,6 +16,7 @@ profile: One sentence introducing yourself.
 profile_links:
   Email: "jeanne.niyonteze@aims.ac"
   GitHub: "https://github.com/niyonteze123"
+  linkidin:linkedin.com/in/niyonteze-jeanne-24763a1ba
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -36,7 +37,7 @@ plugins:
  - jekyll-paginate
  - jekyll-gist
  - jemoji
-
+linkedin.com/in/niyonteze-jeanne-24763a1ba
 # Build settings
 paginate: 5
 paginate_path: "page:num"
@@ -50,7 +51,7 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    values:
+    values:linkedin.com/in/niyonteze-jeanne-24763a1ba
       layout: "post"
 
 kramdown:
